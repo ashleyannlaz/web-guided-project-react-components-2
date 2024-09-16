@@ -1,6 +1,6 @@
 # Composing React Components
 
-## Running this project
+## Running this project - X
 
 This project is set up with [Parcel Bundler](https://parceljs.org/), an npm package
 that compiles our frontend assets and comes with an integrated development server.
